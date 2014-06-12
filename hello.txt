@@ -1,3 +1,7 @@
 Hello world
 I hope this makes it!
+<<<<<<< HEAD
 Oh no! What's going to happen?
+=======
+One more line for fun.
+>>>>>>> 73a25a81c4d15d58c92cff3cb4dcb7c93149bb68
