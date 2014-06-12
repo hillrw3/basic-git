@@ -1,3 +1,21 @@
+commit 73a25a81c4d15d58c92cff3cb4dcb7c93149bb68
+Author: Rob Hill <robert.hill0122@gmail.com>
+Date:   Thu Jun 12 15:16:43 2014 -0600
+
+    Adding a third line.
+
+commit e0221a61ceec4c4f51a40859c4c017d339392c60
+Author: Rob Hill <robert.hill0122@gmail.com>
+Date:   Thu Jun 12 14:56:59 2014 -0600
+
+    2nd line to hello.txt
+
+commit 845b7e2b987e8b457883354754ebd816a354d4f9
+Author: Rob Hill <robert.hill0122@gmail.com>
+Date:   Thu Jun 12 14:34:23 2014 -0600
+
+     Appendinggit log to text file:
+
 commit 7f03c3821c2aaadf46e7bbfdb3f849adb8097306
 Author: Rob Hill <robert.hill0122@gmail.com>
 Date:   Thu Jun 12 14:30:12 2014 -0600
